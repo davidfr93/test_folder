@@ -1,4 +1,4 @@
-def read_infos(file_name):
+def read_files(file_name):
 
     df = pd.read_csv(file_name)
 
